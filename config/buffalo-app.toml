@@ -1,0 +1,13 @@
+name = "login_and_upload"
+bin = "bin/login_and_upload"
+vcs = "git"
+with_pop = false
+with_sqlite = false
+with_dep = false
+with_webpack = true
+with_nodejs = true
+with_yarn = true
+with_docker = false
+with_grifts = false
+as_web = true
+as_api = false

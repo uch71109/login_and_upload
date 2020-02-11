@@ -1,0 +1,10 @@
+- id: welcome_greeting
+  translation: "Welcome to Buffalo!"
+- id: logged_out
+  translation: "You have been logged out!"
+- id: unauthorized
+  translation: "You must be authorized to see that page!"
+- id: file_created
+  translation: "File was created successfully!"
+- id: file_not_found
+  translation: "File not found!"
